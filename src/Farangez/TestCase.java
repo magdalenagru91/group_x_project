@@ -1,4 +1,4 @@
-package TestCase;
+package Farangez;
 
 public class TestCase {
 
